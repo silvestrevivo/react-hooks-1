@@ -1,3 +1,7 @@
+# react-hooks-1
+
+React application following the Udemy tutorial from @mschwarzmueller
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
